@@ -1,0 +1,16 @@
+package Inheritance.Cylinder;
+
+public class MainNotes {
+}
+
+
+//                Circle circle = new Circle(3.75);
+//                System.out.println("circle.radius " + circle.getRadius());
+//                System.out.println("circle.area " + circle.getArea());
+//
+//
+//                Cylinder cylinder = new Cylinder(5.55, 7.25);
+//                System.out.println("cylinder.radius " + cylinder.getRadius());
+//                System.out.println("cylinder.Height " +cylinder.getHeight());
+//                System.out.println("cylinder.Area " +cylinder.getArea());
+//                System.out.println("cylinder.Volume " +cylinder.getVolume());
